@@ -19,4 +19,4 @@ To view displayed data, open Dev Tools and open the Console tab.
 - [**W3 School**](https://www.w3schools.com/)
 
  ##
-![Console-Finances](https://kingporchy.github.io/Console-Finances/Console-Finances-demo.png)
+![Console-Finances](https://kingporchy.github.io/Console-Finances/Console-Finances.png)
